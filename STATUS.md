@@ -33,3 +33,12 @@ Not yet done: no git history (files only), nothing published.
 - Global memory location: docs currently suggest `~/claude-memory/` for
   cross-project facts; confirm this is the recommendation we want before the
   install video.
+
+---
+
+## Session handoff 2026-07-15
+
+- Done: repo scaffolded, committed (9de108e), published public to https://github.com/ninaneev/continuum (MIT where applicable)
+
+- Known broken: nothing known; no verification run in a clean session yet
+- Next session: Run docs/INSTALL.md verification in a clean Claude Code session, then script the demo video (before/after memory).

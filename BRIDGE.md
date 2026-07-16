@@ -57,3 +57,5 @@ daily and are tired of re-explaining context every session.
 - MIT licensed, copyright Nina Cressoni.
 - No external dependencies, ever. If a feature needs a service, it is out of
   scope for this product.
+
+_Last updated: 2026-07-15 — v1 published to https://github.com/ninaneev/continuum. Business model: repos free/open source; revenue = €149 guided install per system + €1,500 Full Stack Install flagship (sold via ninaneev.github.io, Stripe pending)._
